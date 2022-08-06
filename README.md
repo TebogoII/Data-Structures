@@ -9,7 +9,8 @@ In working on this repository I have studied and put to use the following Data S
    -1 Dimensional
    -2 Dimensional
 
-  *Linked Lists
+<ul>
+  <li>*Linked Lists</li>
    -Single & Doubly Linked
    -Circular Lists
    -Skip Lists
@@ -85,3 +86,4 @@ In working on this repository I have studied and put to use the following Data S
    -Exact String Matching
    -Approximate String Matching
    
+</ul>
