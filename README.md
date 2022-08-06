@@ -5,12 +5,12 @@ There are several basic and advanced types of data structures, all designed to a
 Throughout the journey it was also useful to explore and understand complexity analysis to see why these various structures could be more efficient
 
 In working on this repository I have studied and put to use the following Data Structures:
+  <p>
   *Arrays
    -1 Dimensional
    -2 Dimensional
 
-<ul>
-  <li>*Linked Lists</li>
+  *Linked Lists
    -Single & Doubly Linked
    -Circular Lists
    -Skip Lists
@@ -85,5 +85,4 @@ In working on this repository I have studied and put to use the following Data S
   *String Matching
    -Exact String Matching
    -Approximate String Matching
-   
-</ul>
+ </p>
