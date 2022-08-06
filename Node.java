@@ -16,9 +16,6 @@ public class Node {
 		DecimalFormat df = new DecimalFormat("#.##");
 		return df.format(value);
 	}
-	
-	//DO NOT CHANGE THE ABOVE FUNCTION
-	//Place your code below
 
 	public Node(Function function, int v1, int v2) {
 		if (function==null) return;
