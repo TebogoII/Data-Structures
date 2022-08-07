@@ -4,9 +4,10 @@ A data structrure is a specialized format for organizing, processing, retrieving
 There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose.
 Throughout the journey it was also useful to explore and understand complexity analysis to see why these various structures could be more efficient
 
-In working on this repository I have studied and put to use the following Data Structures:
 <p>
-  *Arrays
+In working on this repository I have studied and put to use the following Data Structures:
+  
+ *Arrays
    - Multi Dimensional
    - Multi Variable
 
