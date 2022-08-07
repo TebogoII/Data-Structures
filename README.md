@@ -7,8 +7,8 @@ Throughout the journey it was also useful to explore and understand complexity a
 In working on this repository I have studied and put to use the following Data Structures:
 <p>
   *Arrays
-   - 1 Dimensional
-   - 2 Dimensional
+   - 1-Dimensional
+   - 2-Dimensional
 
   *Linked Lists
    - Single & Doubly Linked
