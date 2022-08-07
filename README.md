@@ -7,8 +7,8 @@ Throughout the journey it was also useful to explore and understand complexity a
 In working on this repository I have studied and put to use the following Data Structures:
 <p>
   *Arrays
-   - 1-Dimensional
-   - 2-Dimensional
+   - Multi Dimensional
+   - Multi Variable
 
   *Linked Lists
    - Single & Doubly Linked
@@ -31,15 +31,15 @@ In working on this repository I have studied and put to use the following Data S
    - kd Trees
    
   *Multiway Trees
-   -B Trees
-   -B* Trees
-   -B+ Trees
-   -Prefix B+ Trees
-   -kd B Trees
-   -Bit Trees
-   -R Trees
-   -2,4 Trees
-   -Tries
+   - B Trees
+   - B* Trees
+   - B+ Trees
+   - Prefix B+ Trees
+   - kd B Trees
+   - Bit Trees
+   - R Trees
+   - 2,4 Trees
+   - Tries
    
   *Graphs
    - Representation
